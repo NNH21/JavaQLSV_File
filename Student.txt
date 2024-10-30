@@ -1,0 +1,10 @@
+1 | Nguyen Hoang | 20 | Quang Tri | 10.0
+2 | Quang Anh | 20 | Quang Tri | 8.0
+3 | Le Na | 19 | Can Tho | 9.5
+4 | Hoai Nhan | 19 | Can Tho | 5.5
+5 | Huu Tuan | 20 | Soc Trang | 7.0
+6 | Tra Vy | 20 | lai Chau | 5.0
+7 | Thanh Tung | 21 | Ha Noi | 7.5
+8 | Kieu Anh | 21 | Binh Thuan | 6.5
+9 | Quang Minh | 19 | Da Nang | 6.0
+10 | Quang Vu | 19 | Da Lat
